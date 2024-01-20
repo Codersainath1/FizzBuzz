@@ -1,0 +1,9 @@
+com\FizzBuzz\Project\Entitys\ParamiterRequest.class
+com\FizzBuzz\Project\Exception\BadFormatFizzBuzzException.class
+com\FizzBuzz\Project\Repository\ParamiterRequestRepository.class
+com\FizzBuzz\Project\ProjectApplication.class
+com\FizzBuzz\Project\Services\FizzBuzzService.class
+com\FizzBuzz\Project\Bean\RequestParamiter.class
+com\FizzBuzz\Project\Controller\FizzBuzzController.class
+com\FizzBuzz\Project\Exception\BadRequestException.class
+com\FizzBuzz\Project\Services\StatisticsService.class
