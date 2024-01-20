@@ -18,6 +18,8 @@ This is Produces the Sequence
 This is used to get most called request
 - /v1/fizzbuzz/statistic:      
 
+## Documentation
+
 > The project embarks the `springdoc-openapi-ui` dependency, so a swagger page is reachable at this page `http://localhost:8080/swagger-ui.html`.
 
 ## Install & run
